@@ -12,5 +12,5 @@ console.log(accountId)
 console.table([accountId, accountName, accountmail, accountCity, accountState]);
 
 /*
-we are not going to use var in future use.... because of scope and functional scope..
+we are not going to use var in future use.... because of issues in scope and functional scope..
 */
